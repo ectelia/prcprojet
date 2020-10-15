@@ -1,0 +1,4 @@
+env/
+MyPrcProject/__pycache__
+MyPrcNetwork/__pycache__/
+MyPrcNetwork/migrations/__pycache__/
